@@ -1,4 +1,4 @@
-# IPFS Podcasting | How to
+# IPFS Podcasting
 
 [IPFS](https://ipfs.io/) peer-to-peer hypermedia protocol designed to preserve and grow humanity's knowledge. Basically, it's kind of like Napster but for everything.
 
