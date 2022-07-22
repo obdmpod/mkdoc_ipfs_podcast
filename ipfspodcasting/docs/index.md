@@ -1,17 +1,15 @@
-# Welcome to MkDocs
+# IPFS Podcasting | How to
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+[IPFS](https://ipfs.io/) peer-to-peer hypermedia protocol designed to preserve and grow humanity's knowledge. Basically, it's kind of like Napster but for everything.
 
-## Commands
+[IPFS Podcasting](https://ipfspodcasting.net/) use the IPFS technology allowing people to host their own(or anyones) podcast episodes. No longer do you have the rely on Podcast providers.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+IPFS Podcasting backs up your favorite shows and allows you to share them directly with people.
 
-## Project layout
+## Linux
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+## Mac
+
+## Windows
+
+## Links
