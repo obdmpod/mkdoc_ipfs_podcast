@@ -20,7 +20,7 @@ If you already have an IPFS server, you only need to run a client script every 1
 
 ### Install Script
 
-If you don't have IPFS installed, this Install Script will install the latest IPFS software, IPFS Podcasting client script, and setup a cron task on your [Debian](https://www.debian.org/) or [Ubuntu](https://ubuntu.com/download) based PC (preferred).
+If you don't have IPFS installed, this install script will install the latest IPFS software, IPFS Podcasting client script, and setup a cron task on your [Debian](https://www.debian.org/) or [Ubuntu](https://ubuntu.com/download) based PC (preferred).
 
 1. [Download the install script](https://raw.githubusercontent.com/Cameron-IPFSPodcasting/podcastnode-Python/main/ipfspodcasting-install.sh).
 
@@ -43,7 +43,7 @@ For support, you can email <support@ipfspodcasting.net>, submit an issue at the 
 ## Windows
 
 ## Umbrel OS
-There is also an [IPFS Podcasting App](https://github.com/Cameron-IPFSPodcasting/podcastnode-Umbrel) for Umbrel OS.
+There is also an IPFS Podcasting App for Umbrel OS.
 
 1. Visit <https://umbrel.com/#start> for instructions installing Umbrel OS on a Raspberry PI or any [Debian](https://www.debian.org/) or [Ubuntu](https://ubuntu.com/download) based PC.
 
@@ -52,5 +52,7 @@ There is also an [IPFS Podcasting App](https://github.com/Cameron-IPFSPodcasting
 Optionally enter your email inside the app to [manage your node](https://ipfspodcasting.net/Manage) and ["Favorite" feeds](https://ipfspodcasting.net/Help/Favorites) from the website.
 
 ![image](https://user-images.githubusercontent.com/103131615/181662468-40d28845-aec7-48ce-9297-ccc4c788bfd2.png)
+
+For support, you can email <support@ipfspodcasting.net>, submit an issue at the [GitHub page](https://github.com/Cameron-IPFSPodcasting/podcastnode-Umbrel/issues), or ask for help to [@Cameron](https://podcastindex.social/@cameron) on Mastodon [@podcastindex.social](https://podcastindex.social/).
 
 ## Links
