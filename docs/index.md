@@ -49,7 +49,7 @@ There is also an [IPFS Podcasting App](https://github.com/Cameron-IPFSPodcasting
 
 2. Install the IPFS Podcasting app from the Umbrel App store.
 
-Optionally enter your email inside the app to manage your node from the website.
+Optionally enter your email inside the app to [manage your node](https://ipfspodcasting.net/Manage) and ["Favorite" feeds](https://ipfspodcasting.net/Help/Favorites) from the website.
 
 ![image](https://user-images.githubusercontent.com/103131615/181662468-40d28845-aec7-48ce-9297-ccc4c788bfd2.png)
 
